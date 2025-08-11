@@ -30,4 +30,5 @@ The dashboard analyzes e-commerce sales data from a nearby superstore. The speci
 
 6. Screenshots / Demos
 https://github.com/ayushimishra0213/Superstore-sales-dashboard/blob/main/Superstore%20sales%20dashboard_1.jpg
+https://github.com/ayushimishra0213/Superstore-sales-dashboard/blob/main/Superstore%20sales%20dashboard_1.jpg
 
