@@ -29,4 +29,3 @@ The dashboard analyzes e-commerce sales data from a nearby superstore. The speci
 • Sales by Ship Mode: The dashboard shows sales broken down by shipping methods such as Standard, Second Class, First Class, and Same Day.
 
 6. Screenshots / Demos
-https://github.com/ayushimishra0213/Superstore-sales-dashboard/blob/main/Superstore%20salesdashboard.png
